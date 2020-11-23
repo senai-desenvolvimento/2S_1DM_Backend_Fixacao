@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Desktop\reforco\bin\Debug\netcoreapp3.1\reforco.exe
+C:\Users\Paulo Brandão\Desktop\reforco\bin\Debug\netcoreapp3.1\reforco.deps.json
+C:\Users\Paulo Brandão\Desktop\reforco\bin\Debug\netcoreapp3.1\reforco.runtimeconfig.json
+C:\Users\Paulo Brandão\Desktop\reforco\bin\Debug\netcoreapp3.1\reforco.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Desktop\reforco\bin\Debug\netcoreapp3.1\reforco.dll
+C:\Users\Paulo Brandão\Desktop\reforco\bin\Debug\netcoreapp3.1\reforco.pdb
+C:\Users\Paulo Brandão\Desktop\reforco\obj\Debug\netcoreapp3.1\reforco.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Desktop\reforco\obj\Debug\netcoreapp3.1\reforco.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Desktop\reforco\obj\Debug\netcoreapp3.1\reforco.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Desktop\reforco\obj\Debug\netcoreapp3.1\reforco.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Desktop\reforco\obj\Debug\netcoreapp3.1\reforco.dll
+C:\Users\Paulo Brandão\Desktop\reforco\obj\Debug\netcoreapp3.1\reforco.pdb
+C:\Users\Paulo Brandão\Desktop\reforco\obj\Debug\netcoreapp3.1\reforco.genruntimeconfig.cache
